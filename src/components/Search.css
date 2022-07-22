@@ -1,0 +1,13 @@
+.search-box {
+  width: 15rem;
+  max-width: 80%;
+  margin: 2rem auto;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 0.5rem;
+  font: inherit;
+  border-radius: 5px;
+  border: 1px solid black;
+}
